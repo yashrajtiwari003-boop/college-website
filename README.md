@@ -1,4 +1,4 @@
-# Sarsuna College Website
+# NexGen Institute of Technology College Website
 
 15+ page HTML/CSS college website assignment.
 
